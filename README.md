@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @vitoyunlang
-- 👀 I’m interested in java
+- 👀 I’m interested in JAVA
 - 📫 reach me by email 15502155219@163.com
